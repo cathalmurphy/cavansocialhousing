@@ -134,6 +134,7 @@ The nature of the raster, however (i.e. that a decent proportion of it was outsi
 
 <p align="center"><a name="figure1"></a>
 
+
 ![Map for distance to towns and villages](https://raw.githubusercontent.com/cathalmurphy/cavansocialhousing/master/Fig1Towns.png)
 ***Figure 1: Maps for distance to towns and villages***
 
