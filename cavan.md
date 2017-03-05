@@ -132,9 +132,9 @@ A look at the file details in the table of contents indicated that the distances
 The nature of the raster, however (i.e. that a decent proportion of it was outside of the boundaries of Cavan), meant that, practically speaking, this wouldn’t actually have been a problem, as the pixels located on the extreme high-end of the spectrum of initial distance values were outside the boundaries of Cavan and would have ultimately been excluded anyway by the constraint rasters. Secondly, again speaking practically, it would not have been useful to ascertain the range of values within Cavan itself, as realistically even locations in Cavan which were quite remote from towns were not, strictly speaking, totally undesirable because of this. On this basis, ascertaining a more limited range which pertained only to Cavan and not the processing extent was judged irrelevant to the normalization of the raster. The normalized output raster was named “C3”, as at this point two of the three constraint rasters had been created, C1, and C2 (with C standing for criterion).
 
 
-<p align="center">
+<p align="center"><a name="figure1"></a>
 
-<a name="figure1"></a>![Map for distance to towns and villages](https://raw.githubusercontent.com/cathalmurphy/cavansocialhousing/master/Fig1Towns.png)
+![Map for distance to towns and villages](https://raw.githubusercontent.com/cathalmurphy/cavansocialhousing/master/Fig1Towns.png)
 ***Figure 1: Maps for distance to towns and villages***
 
 </p>
